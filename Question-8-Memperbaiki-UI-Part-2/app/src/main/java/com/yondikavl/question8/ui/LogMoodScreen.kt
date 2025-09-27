@@ -9,8 +9,6 @@ import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.KeyboardArrowLeft
-import androidx.compose.material.icons.filled.Close
-import androidx.compose.material.icons.filled.KeyboardArrowLeft
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
@@ -34,11 +32,11 @@ private val Background = Color(0xFFF6F8F9)
 private val PrimaryText = Color(0xFF111216)
 private val MutedText = Color(0xFF6B7175)
 private val Accent = Color(0xFFF39C68)
-private val ChipSelected = Color(0xFF474B4F)
+private val ChipSelected = Color(0xFF39A9CF)
 private val ChipUnselected = Color(0xFFECECEC)
 private val BorderChip = Color(0xFFD6D6D6)
 private val PlaceHolder = Color(0xFF7E8186)
-private val button = Color(0xFF292D32)
+private val button = Color(0xFF0E89B3)
 
 data class Mood(val id: Int, val iconRes: Int, val label: String)
 
