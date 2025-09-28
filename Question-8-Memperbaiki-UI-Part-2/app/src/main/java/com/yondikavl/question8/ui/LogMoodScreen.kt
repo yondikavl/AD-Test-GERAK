@@ -266,15 +266,14 @@ private fun MoodSelector(
     selectedIndex: Int,
     onSelected: (Int) -> Unit
 ) {
-    LazyRow(
-        horizontalArrangement = Arrangement.spacedBy(12.dp),
+    Row(
+        horizontalArrangement = Arrangement.SpaceEvenly,
         verticalAlignment = Alignment.CenterVertically,
         modifier = Modifier
             .fillMaxWidth()
             .height(100.dp)
     ) {
-        items(moods.size) { index ->
-            val mood = moods[index]
+        moods.forEachIndexed { index, mood ->
             val selected = index == selectedIndex
 
             Box(
