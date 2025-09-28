@@ -154,6 +154,11 @@ if (distance <= 1000 && !isVisited) {
 - Typography lebih bersih.
 - Button lebih harmonis dengan Material 3.
 
+<p align="center">
+  <img src="Screenshoot/Question-7-Before.png" alt="page1" width="200"/>
+  <img src="Screenshoot/Question-7-Memperbaiki-UI1.png" alt="page2" width="200"/>
+</p>
+
 ---
 
 ## Jawaban 8 – Memperbaiki UI Part 2
@@ -172,6 +177,11 @@ if (distance <= 1000 && !isVisited) {
 - Hierarki visual lebih jelas.
 - Konsistensi padding & spacing.
 - Responsif di berbagai ukuran layar.
+
+<p align="center">
+  <img src="Screenshoot/Question-8-Before.png" alt="page1" height="500" />
+  <img src="Screenshoot/Question-8-Memperbaiki-UI-Part-2.png" alt="page2" height="500" />
+</p>
 
 ---
 
