@@ -94,8 +94,10 @@ Case #4: 1
 - Render `Circle` sesuai state.
 - Update radius/titik setiap interaksi.
 
-![Jawaban 4 – Akai Si Engineer](Screenshoot/Question-4-Akai-si-engineer1.png)
-![Jawaban 4 – Akai Si Engineer](Screenshoot/Question-4-Akai-si-engineer2.png)
+<p align="center">
+  <img src="Screenshoot/Question-4-Akai-si-engineer1.png" alt="page1" width="200"/>
+  <img src="Screenshoot/Question-4-Akai-si-engineer2.png" alt="page2" width="200"/>
+</p>
 
 ---
 
@@ -116,9 +118,11 @@ if (distance <= 1000 && !isVisited) {
 }
 ```
 
-![Jawaban 5 – Akai Si Engineer 2](Screenshoot/Question-5-Akai-si-engineer3.png)
-![Jawaban 5 – Akai Si Engineer 2](Screenshoot/Question-5-Akai-si-engineer1.png)
-![Jawaban 5 – Akai Si Engineer 2](Screenshoot/Question-5-Akai-si-engineer2.png)
+<p align="center">
+  <img src="Screenshoot/Question-5-Akai-si-engineer3.png" alt="page1" width="200"/>
+  <img src="Screenshoot/Question-5-Akai-si-engineer1.png" alt="page2" width="200"/>
+  <img src="Screenshoot/Question-5-Akai-si-engineer2.png" alt="page3" width="200"/>
+</p>
 
 ---
 
@@ -133,9 +137,11 @@ if (distance <= 1000 && !isVisited) {
 - **StateFlow:** Mengelola state reaktif.
 - **Compose UI:** Render daftar dengan `LazyColumn`.
 
-![Jawaban 6 – Akai Si Engineer 3](Screenshoot/Question-6-Akai-si-engineer-31.png)
-![Jawaban 6 – Akai Si Engineer 3](Screenshoot/Question-6-Akai-si-engineer-32.png)
-![Jawaban 6 – Akai Si Engineer 3](Screenshoot/Question-6-Akai-si-engineer-33.png)
+<p align="center">
+  <img src="Screenshoot/Question-6-Akai-si-engineer-31.png" alt="page1" width="200"/>
+  <img src="Screenshoot/Question-6-Akai-si-engineer-32.png" alt="page2" width="200"/>
+  <img src="Screenshoot/Question-6-Akai-si-engineer-33.png" alt="page3" width="200"/>
+</p>
 
 ---
 
